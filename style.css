@@ -127,4 +127,15 @@ section.projetos{
 
 /*Textos do parte de projetos*/
 
+section.projetos{
+    padding: 100px 4%;
+}
+
+section.projetos .flex{
+    margin-top: -300px;
+    align-items: center;
+    gap: 5px;
+}
+
+
 

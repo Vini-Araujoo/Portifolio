@@ -135,6 +135,7 @@ section.projetos .flex{
     margin-top: -300px;
     align-items: center;
     gap: 5px;
+    margin-bottom: -100px;
 }
 
 /*Footer*/
@@ -155,13 +156,10 @@ h1 {
     padding-left: 900px;
     padding-top: 20px;
     color: white;
-    /*justify-content: center;*/
-
 }
 
 #footer_midias_sociais{
     font-size: 40px;
-    color: aqua;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     margin-top: 20px;
@@ -172,9 +170,3 @@ h1 {
 #footer_midias_sociais .footer-link{
     color: aqua;
 }
-
-
-
-
-
-
